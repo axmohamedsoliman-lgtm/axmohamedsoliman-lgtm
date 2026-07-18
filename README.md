@@ -27,7 +27,7 @@ Seven shipped applications. One proprietary runtime. All production code.
 ### 🤖 [Naomi AI](https://github.com/axmohamedsoliman-lgtm/naomi-ai-assistant)
 On-device AI assistant. Runs Gemma 3 1B, SmolVLM2, and nomic-embed-text in a 3-slot memory-managed pipeline. Auto-routes each message to the right tool via intent classification — no user selection required.
 
-`JavaScript` `Java` `Python` `llama.cpp` `Android`
+`JavaScript` `Java` `llama.cpp` `Android`
 
 **[→ Live](https://genom-showcase.pages.dev/applications/naomi-ai/)**
 
@@ -49,7 +49,7 @@ Multi-threaded Flask backend (2,300+ lines) orchestrating multiple local servers
 ### 🎮 [I Identify As A Horse](https://github.com/axmohamedsoliman-lgtm/horse-game-engine)
 3D open-world game in PlayCanvas. Procedural city generation, NPC state machines, soft-body physics, terrain heightmaps, and a spring-damper camera — all JavaScript, deployed as native Android.
 
-`JavaScript` `Java` `Python` `PlayCanvas` `WebGL`
+`JavaScript` `Java` `PlayCanvas` `WebGL`
 
 **[→ Live](https://genom-showcase.pages.dev/applications/games/)**
 
@@ -93,7 +93,7 @@ Video-to-GIF converter with frame-level editing, timeline scrubbing, and 3-forma
 ### 🏥 [Genom Clinic Engine](https://github.com/axmohamedsoliman-lgtm/genom-clinic-engine)
 Full clinic management system — patients, appointments, billing, PDF reports, Arabic RTL. Runs offline on a single Android tablet. No server. No cloud.
 
-`JavaScript` `Python` `Java` `SQLite` `Android`
+`JavaScript` `Python` `Java` `SQLite` `Android` `Windows`
 
 **[→ Live](https://genom-showcase.pages.dev/applications/clinic/)**
 
