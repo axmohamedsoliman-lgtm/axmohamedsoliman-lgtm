@@ -100,7 +100,7 @@ Full clinic management system — patients, appointments, billing, PDF reports, 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Genom Runtime](https://github.com/axmohamedsoliman-lgtm/Genom-framework-and-MSA-showcase)
+### ⚙️ [Genom Runtime](https://github.com/axmohamedsoliman-lgtm/Genom-Runtime)
 The proprietary runtime powering all 7 apps. Turns any web application into a native experience — hardware-accelerated, full native API access, zero user-visible seams.
 
 `Java` `TypeScript` `Python` `Android` `Windows`
